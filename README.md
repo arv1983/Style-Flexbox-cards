@@ -1,6 +1,5 @@
 # Assessment: Flexbox Cards
 
-**PLEASE COMPLETE GITLAB MODULE PRIOR TO COMPLETING THIS ASSESSMENT**
 
 To begin, **fork and clone** the initial files from [this repository](https://gitlab.com/kenzie-academy/se_public_files/09_flexbox_cards).
 
