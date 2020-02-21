@@ -1,17 +1,15 @@
-# Assessment: Flexbox Cards
+# Avaliação: Cartas Flexbox
 
+Para começar, **faça o fork e o clone** dos arquivos iniciais [deste repositório](https://gitlab.com/kenzie-academy-brasil/se/fe/responsive-web-content/s_flexbox-cards).
 
-To begin, **fork and clone** the initial files from [this repository](https://gitlab.com/kenzie-academy/se/fe/Responsive-Web-Content/s_flexbox-cards).
-
-The included cards.css stylesheet is missing all the flexbox properties needed to create the layout shown below:
+A planilha de estilo cards.css inclusa está sem nenhuma propriedade flexbox necessária para criar o layout exibido abaixo:
 
 ![card-layout.png](https://i.snag.gy/bfi4Zp.jpg)
 
-When you examine cards.css, you will find comments indicating which flex properties are missing. Please fill in these properties until you have recreated the layout shown above.
+Ao examinar o cards.css, você irá encontrar comentários indicando quais propriedades flex estão faltando. Por favor, preencha essas propriedades até conseguir recriar o layout exibido acima.
 
-If you are having trouble remembering the behavior of the various flexbox properties, you may find it helpful to refer to the diagrams in [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/).
+Se você estiver tendo problemas ao tentar lembrar o comportamento das diversas propriedades flexbox, consulte os diagramas de [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) (em inglês).
 
-### Submission
-Push your code into your GitLab repository and deploy it via GitLab pages. In Canvas, please submit your
-Gitlab Pages url (ex: https://username.gitlab.io/flexbox-cards/) and, in GitLab, add KA_Grading as a member on
-your project with "Reporter" permission.
+### Envio
+
+Faça o push do código para o seu repositório GitLab e implemente-o via GitLab pages. No Canvas, por favor, envie a url de seu Gitlab Pages (ex: https://nomedeusuário.gitlab.io/flexbox-cards/) e, no GitLab, adicione o grupo `ka-br-correcoes` como membro do seu projeto com a permissão "Reporter".
