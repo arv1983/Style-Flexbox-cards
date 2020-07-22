@@ -1,4 +1,4 @@
-# Avaliação: Cartas Flexbox
+# Entrega: Cartas Flexbox
 
 Para começar, **faça o fork e o clone** dos arquivos iniciais [deste repositório](https://gitlab.com/kenzie-academy-brasil/se/fe/responsive-web-content/s_flexbox-cards).
 
