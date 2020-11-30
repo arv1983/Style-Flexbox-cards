@@ -12,4 +12,4 @@ If you are having trouble remembering the behavior of the various flexbox proper
 
 ### Submission
 Commit your changes and push your code into your GitGHub repository. In Canvas, please submit your
-GitHub url.  
+GitHub url.    
